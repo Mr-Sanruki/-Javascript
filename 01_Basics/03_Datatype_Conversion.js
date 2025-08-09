@@ -98,25 +98,25 @@
 // console.log("Boolean age: " + boolean_age)
 // console.log("Type: " +typeof boolean_age)
 
-// // conversion of True boolean into number , boolean , null , undefined
+// conversion of True boolean into number , boolean , null , undefined
 
-// let age = true //initial value
+let age = true //initial value
 
-// let number_age = Number(age)       //conversion into number 
-// let string_age = String(age)       //conversion into string
-// let boolean_age = Boolean(age)     //conversion into boolean         
+let number_age = Number(age)       //conversion into number 
+let string_age = String(age)       //conversion into string
+let boolean_age = Boolean(age)     //conversion into boolean         
 
-// console.log("age: " + age)
-// console.log("Type: " + typeof age)
+console.log("age: " + age)
+console.log("Type: " + typeof age)
 
-// console.log("Number age: " + number_age)
-// console.log("Type: " + typeof number_age)
+console.log("Number age: " + number_age)
+console.log("Type: " + typeof number_age)
 
-// console.log("String age: " + string_age)
-// console.log("Type: " +typeof string_age)
+console.log("String age: " + string_age)
+console.log("Type: " +typeof string_age)
 
-// console.log("Boolean age: " + boolean_age)
-// console.log("Type: " +typeof boolean_age)
+console.log("Boolean age: " + boolean_age)
+console.log("Type: " +typeof boolean_age)
 
 
 
